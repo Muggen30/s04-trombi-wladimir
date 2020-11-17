@@ -1,0 +1,22 @@
+{
+  "name": "trombino-clock",
+  "version": "1.0.0",
+  "description": "un trombinoscope pour l'école o'clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muggen30/s04-trombi-wladimir.git"
+  },
+  "author": "wladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muggen30/s04-trombi-wladimir/issues"
+  },
+  "homepage": "https://github.com/Muggen30/s04-trombi-wladimir#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
